@@ -1,6 +1,6 @@
 # PHP based-Visitor Management System
 
-<p>VMS or Visitor Management System is an utility for the 'gate' guards who have to maintain a bulky and a very-hard-to-maintain record books for all the visitors that visit the college for their various reasons.</p>
+<p>VMS or Visitor Management System is an utility for the receptionists who have to maintain a bulky and a very-hard-to-maintain record books for all the visitors that visit the company for their various reasons.</p>
 
 <p>VMS has 4 sub- sections, Front Page (Home), Add Visitor (for adding new visitors), View Data (for getting the visitor details - all fields) and a Logged out Visitor page that shows Logged out visitor data for the present day!</p>  
 
@@ -8,7 +8,7 @@
 
 The project uses MySQLi as of now, to integrate the connections use the following 'keys';
 
-<h3>DataBase Name = db_new</h3> (stores visitor details and user details)
+<h3>DataBase Name = db_vms</h3> (stores visitor details and user details)
   <h4>Table = info_visitor</h4>
    
   
@@ -152,6 +152,5 @@ The project uses MySQLi as of now, to integrate the connections use the followin
 
 Project Development <b>FINISHED SUCCESSFULLY</b>
 
-<b>Thank you so much jhuckaby/ for the webcam plugin!</b>
 
-BY ~ Aditya Saxena
+BY ~ Shreya Vaidya
