@@ -1,0 +1,34 @@
+
+/* Body Style */
+
+    
+.navbar {
+    margin-bottom: 0;
+    background-color:#333333;
+    border: 0;
+    font-size: 15px !important;
+    letter-spacing: 2px;
+    opacity:0.9;
+    color: #ffffff;
+     border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+}
+
+.navbar-nav li.active a {
+    color: #fff !important;
+    background-color:#00ACE9 !important;
+  }
+
+.navbar-nav #li:hover {
+    color:  #939339 !important;
+}
+
+.navbar {
+      margin-bottom: 0px;
+  }
+
+  #li{
+    color:
+     #ffffff !important;
+  }
+  #lii{color : #ffffff;}
